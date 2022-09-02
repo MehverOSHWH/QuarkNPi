@@ -1,8 +1,10 @@
-# QuarkNPi `v0.2`
+# QuarkNPi `v0.2-s1`
 
 <a href='https://github.com/PiCenter/QuarkNPi'><img src="https://img.shields.io/badge/-GitHub@PiCenter-3A3A3A?style=flat&amp;logo=GitHub&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a> <a href='https://oshwhub.com/rgb_yes'><img src="https://img.shields.io/badge/-OSHWHub@RGB_YES-5588ff?style=flat&amp;logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAA2UlEQVRIie1W0RLDIAjD3f7/l9nTro4RCFivvd3y1oomQQXlKoyZV1VZGTZwgLjPoHGEPRqGPXUK/kM8FwiHM6bOmAvGsefGLmy/U/eR41LqJnLKPXJcJbUC7DZ8rWeJbRB1WgsCIDGalCE61XSqV1zS5J17zJCnZ2QH8SwAolJA6EUZ7HQc4k/8+8TdU13uRha3TvVKCV0ilqzTdODtcdTAbbNn4MZax2kDD0R5gAJRWzw1rV5/j/aYdV8ifCO7x6UHnDMPgi0gkYDWG61aQKKKteW+nwsReQHXpy5D9yKlhQAAAABJRU5ErkJggg==&amp;logoColor=white" referrerpolicy="no-referrer" alt="OSHWHub"></a>
 
 `If English translation needed, please let me know.`
+
+![](./README/v0.2-P.jpg)
 
 基于 树莓派4 Raspberry Pi 4 的布局的 Quark N 底板。核心板为稚晖君的 [Project Quantum](https://github.com/peng-zhihui/Project-Quantum) 项目。
 
@@ -15,7 +17,8 @@
 
 注意事项：
 
-- 此版已打样，但测试进度较慢，若有问题也可能不在近期的迭代中解决
+- 已验证可点亮，可通过串口访问终端，加载sd卡的系统引导
+- Failed to pass system boot inspection, bootlooping 无法通过开机自检，无限重启 ([Issues#1](https://github.com/PiCenter/QuarkNPi/issues/1))
 
 加工工艺：
 
@@ -24,6 +27,6 @@
 - 最小过孔：0.2&0.5mm
 - 全通孔，无盲埋孔
 
-![](./v0.2.png)
+![](./README/v0.2.png)
 
-![](./v0.2-3D.png)
+![](./README/v0.2-3D.png)
