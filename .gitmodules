@@ -1,3 +1,9 @@
 [submodule "Reference/RaspberryPi3BP-Layout"]
 	path = Reference/RaspberryPi3BP-Layout
 	url = https://github.com/PiCenter/RaspberryPi3BP-Layout
+[submodule "Reference/QuarkN-Transfer"]
+	path = Reference/QuarkN-Transfer
+	url = https://github.com/PiCenter/QuarkN-Transfer
+[submodule "Reference/peng-zhihui@Project-Quantum"]
+	path = Reference/peng-zhihui@Project-Quantum
+	url = https://github.com/peng-zhihui/Project-Quantum
