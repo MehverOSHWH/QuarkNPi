@@ -1,0 +1,3 @@
+[submodule "Reference/RaspberryPi3BP-Layout"]
+	path = Reference/RaspberryPi3BP-Layout
+	url = https://github.com/PiCenter/RaspberryPi3BP-Layout
