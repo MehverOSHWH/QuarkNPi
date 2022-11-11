@@ -16,11 +16,6 @@
 - 板上供电使用了独立的LDO（稚晖君的底板使用核心板上的LDO进行稳压）可提供更高功率
 - GPIO的供电有专门的保护和稳压电路
 
-注意事项：
-
-- 已验证可点亮，可通过串口访问终端，加载sd卡的系统引导
-- Failed to pass system boot inspection, bootlooping 无法通过开机自检，无限重启 ([Issues#1](https://github.com/PiCenter/QuarkNPi/issues/1))
-
 加工工艺：
 
 - 嘉立创普通4层板可做
