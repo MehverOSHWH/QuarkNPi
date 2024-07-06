@@ -4,6 +4,8 @@
 
 `If English translation needed, use issue to let me know.`
 
+**此项目无限期搁置，暂不进一步调试和完善。毕竟本来也是兴趣非刚需，因为开学后忙别的去了，大脑缓存直接刷新了续不上了。**
+
 ![](./README/v0.2-P.jpg)
 
 基于 树莓派4 Raspberry Pi 4 的布局的 Quark N 底板。核心板为稚晖君的 [Project Quantum](https://github.com/peng-zhihui/Project-Quantum) 项目。
